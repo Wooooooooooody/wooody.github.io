@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 name: "Woody"
 description: "Woody‘s’"
 
@@ -20,9 +19,6 @@ excerpt_separator: <!-- more -->
 footer-links:
   email: 418722648@qq.com  
   github: wooody
-  rss: # just type anything here for a working RSS icon
-  twitter: 
-  youtube:
 
 footer-text: Copyright (c) 2024 woody
 
